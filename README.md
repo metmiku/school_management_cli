@@ -1,2 +1,2 @@
-# school_management_cli
+# School Management CLI
 A school managment cli application made using cpp
